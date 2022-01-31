@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hervé Andrès"
-  avatar           : "files/profile.jfif"
+  avatar           : "profile.jfif"
   bio              : "PhD Student in Probability"
   location         : "Ecole des Ponts ParisTech"
   employer         :
