@@ -10,4 +10,4 @@ author_profile: true
 - January 2023. [Perspectives on Actuarial Risks in Talks of Young researchers](https://wp.unil.ch/party/). *Signature-based validation of real-world economic scenarios*.
 - November 2022. [Working group on Stochastic Methods and Finance](https://cermics.enpc.fr/~alfonsi/GTMSF.html). *Signature-based validation of real-world economic scenarios*.
 - November 2022. [Journées Scientifiques des Jeunes du Cermics 2023](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/jsjc/). *An introduction to mathematical finance*. 
-- July 2022. [25th International Congress on Insurance: Mathematics and Economics](https://conf.ichaos.com.cn/ime2022/page/1)
+- July 2022. [25th International Congress on Insurance: Mathematics and Economics](https://conf.ichaos.com.cn/ime2022/page/1). *Signature-based validation of real-world economic scenarios*.
